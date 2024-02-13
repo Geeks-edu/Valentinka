@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #F8C8DC;
-    background-image: url("../images/Отчет 22.01 - 28.01.2024 (1).png");
+    background-image: url("./img/geeks_logo.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -33,7 +33,7 @@ body {
 }
 
 .second_text {
-    background: white;
+    background-color: white;
     width: 500px;
     height: 70px;
     display: flex;

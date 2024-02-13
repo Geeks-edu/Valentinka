@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #F8C8DC;
-    background-image: url("../images/Отчет 22.01 - 28.01.2024 (1).png");
+    background-image: url("./img/geeks_logo.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -45,6 +45,7 @@ body {
 .buttons {
     width: 900px;
     display: flex;
+    gap: 200px;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
@@ -54,6 +55,8 @@ body {
 }
 
 .btn {
+    width: 200px;
+    height: 100px;
     background-color: deeppink;
     color: white;
     padding: 15px 32px;
